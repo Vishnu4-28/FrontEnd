@@ -25,7 +25,7 @@ function ProductView() {
         console.log("viewDetail-->",product)
         setProductDetail(product)
         // dispatch(isModal)
-        setOpen(true)
+        setOpen(true) 
         
     }
 
